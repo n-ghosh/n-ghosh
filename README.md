@@ -22,4 +22,5 @@ Welcome to my page. Look around to learn a little about me, and reach out if you
 
 [Writing Portfolio](https://nghosh04.wixsite.com/nikhil-ghosh)
 
-[Resume](https://drive.google.com/drive/folders/1jUDCcO4SmiBlc8gbvmqJjVXU5KsoYSz0)
+[Resume](https://drive.google.com/drive/folders/1Jfv9Iw-zI_-Kvru3bOwYmwdqdOgwBBKj?usp=share_link)
+
