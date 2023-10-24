@@ -16,7 +16,10 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 
 [JP Morgan Chase Software Engineering Virtual Experience Part 1](https://github.com/n-ghosh/jpmc-task-1), [Part 2](https://github.com/n-ghosh/jpmc-task-2), [Part 3](https://github.com/n-ghosh/jpmc-task-3): _a data analysis project interfacing with JPMC real-time stock data feed and visualizing it for traders choosing investments._
 
+[X-Letter Word Game](https://github.com/n-ghosh/X-letter-Word-Game): _a brain exercise designed to challenge working memory for people with cognitive deficits._
+
 [Leetcode](https://github.com/n-ghosh/leetcode): _I like solving puzzles. Here's a collection of Leetcode problems and similar challenges I've done in some free time._ 
+
 
 ## Skills
 Intermediate: Python, JavaScript, C, C++
