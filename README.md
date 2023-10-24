@@ -24,9 +24,9 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 ## Skills
 Intermediate: Python, JavaScript, C, C++
 
-Beginner: Java, Web Development (HTML, CSS, React.js, ChakraUI, Supabase, Postgres), Data Science (NumPy, Pandas, Matplotlib, Scikit-learn, )
+Beginner: Java, Bash, Web Development (HTML, CSS, React.js, ChakraUI, Supabase, Postgres), Data Science (NumPy, Pandas, Matplotlib, Scikit-learn)
 
-Tools: GitHub, VS Code, 
+Tools: GitHub, VS Code, CLI 
 
 
 ## Other
