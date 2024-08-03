@@ -8,10 +8,10 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 
 ## Currently
 
-> `<u>`Student`</u>` | University of Connecticut `<br>`
+> <u>Student</u> | University of Connecticut <br>
 > _Major in Computer Science, Minor in Human Rights_
 
-> `<u>` Software Engineer Intern `</u>` | PNC Bank `<br> `
+> <u>Software Engineer Intern</u> | PNC Bank <br> 
 > *Developing a web app to generate configuration files for 900+ internal customers using a simple form*
 
 ## Favorite Projects
@@ -36,7 +36,7 @@ Intermediate:
 
 Beginner: Java, Web Development (HTML, CSS, React.js, ChakraUI, Supabase, Postgres), Data Science (NumPy, Pandas, Matplotlib, Scikit-learn)
 
-Tools: GitHub, VS Code, Terminal
+Tools: Postman, CLI
 
 ## Other
 
