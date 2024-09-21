@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 ## Currently
 
 > <u>Student</u> | University of Connecticut <br>
-> _Major in Computer Science, Minor in Human Rights_
+> _Computer Science Major_
 
 > <u>Software Engineer Intern</u> | PNC Bank <br> 
 > *Developing a web app to generate configuration files for 900+ internal customers using a simple form*
