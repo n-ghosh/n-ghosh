@@ -2,14 +2,13 @@
 
 Welcome to my GitHub portfolio. Look around to learn a little about me, and reach out if you'd like to connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-ghosh)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ng.nikhilghosh@gmail.com)
-[![Calendly](https://img.shields.io/badge/Schedule_a_Call-blue?logo=calendar)](https://calendly.com/n-ghosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-ghosh)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ng.nikhilghosh@gmail.com)
+[![Calendly](https://img.shields.io/badge/Schedule_a_Call-blue?style=for-the-badge&logo=calendar)](https://calendly.com/n-ghosh)
 
-## Currently
+## Current Roles
 
-**Student** | [University of Connecticut](https://uconn.edu) \
-_Computer Science Major_
+**Computer Science Major** | [University of Connecticut](https://uconn.edu) 
 
 **Software Engineer Intern** | [PNC Bank](https://www.pnc.com/en/) \
 *Developing a web app to generate configuration files for 900+ internal customers using a simple form*
@@ -29,10 +28,10 @@ _Computer Science Major_
 ## Skills
 
 Strong:
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Proficient: Java, Web Development (React.js, ChakraUI, Supabase, Postgres, HTML, CSS), Data Science (NumPy, Pandas, Matplotlib, Scikit-learn)
 
