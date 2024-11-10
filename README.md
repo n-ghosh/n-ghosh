@@ -8,11 +8,11 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 
 ## Currently
 
-> <u>Student</u> | University of Connecticut <br>
-> _Computer Science Major_
+**Student** | __University of Connecticut__ \
+_Computer Science Major_
 
-> <u>Software Engineer Intern</u> | PNC Bank <br> 
-> *Developing a web app to generate configuration files for 900+ internal customers using a simple form*
+**Software Engineer Intern** | __PNC Bank__ \
+*Developing a web app to generate configuration files for 900+ internal customers using a simple form*
 
 ## Favorite Projects
 
@@ -28,13 +28,13 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 
 ## Skills
 
-Intermediate:
+Strong:
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
 
-Beginner: Java, Web Development (HTML, CSS, React.js, ChakraUI, Supabase, Postgres), Data Science (NumPy, Pandas, Matplotlib, Scikit-learn)
+Proficient: Java, Web Development (React.js, ChakraUI, Supabase, Postgres, HTML, CSS), Data Science (NumPy, Pandas, Matplotlib, Scikit-learn)
 
 Tools: Postman, CLI
 
