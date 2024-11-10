@@ -8,10 +8,10 @@ Welcome to my GitHub portfolio. Look around to learn a little about me, and reac
 
 ## Currently
 
-**Student** | __University of Connecticut__ \
+**Student** | [University of Connecticut](https://uconn.edu) \
 _Computer Science Major_
 
-**Software Engineer Intern** | __PNC Bank__ \
+**Software Engineer Intern** | [PNC Bank](https://www.pnc.com/en/) \
 *Developing a web app to generate configuration files for 900+ internal customers using a simple form*
 
 ## Favorite Projects
